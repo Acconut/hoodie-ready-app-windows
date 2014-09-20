@@ -11,7 +11,7 @@ Following versions are currently used and packed:
 
 ## Using the package
 
-After building the package by yourself or downloading it as a ZIP you have to invoke `scripts/start.cmd` and you're read to go.
+After building the package by yourself or downloading it as a ZIP from the [releases](https://github.com/Acconut/hoodie-ready-app-windows/releases) page (**recommended**) you have to invoke `scripts/start.cmd` and you're read to go.
 
 node's, npm's and hoodie-cli's commands are available in `scripts/`:
 
