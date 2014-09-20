@@ -1,0 +1,10 @@
+{
+  "name": "hoodie-ready-app-deps",
+  "version": "0.0.0",
+  "description": "Dependencies for Hoodie's ready-app-packages",
+  "private": true,
+  "dependencies": {
+    "hoodie-cli": "^0.6.1",
+    "npm": "^2.0.0"
+  }
+}
